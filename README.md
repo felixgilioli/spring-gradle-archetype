@@ -1,4 +1,4 @@
-to create archetype in .m2 run:
+to create archetype local in your .m2 folder, run:
 
 ```
 mvn clean install
